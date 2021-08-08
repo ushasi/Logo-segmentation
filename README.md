@@ -11,3 +11,5 @@ The dataset that will be used for this tutorial is the logo detection dataset. T
 
 Class 1 : Pixel belonging to the logo.
 Class 2 : Pixel surrounding the logo.
+
+<img src=logo.png alt="Segmented logo" width="800">
